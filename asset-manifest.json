@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.dafbe918.js",
-    "static/js/453.fadea034.chunk.js": "/static/js/453.fadea034.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.dafbe918.js.map": "/static/js/main.dafbe918.js.map",
-    "453.fadea034.chunk.js.map": "/static/js/453.fadea034.chunk.js.map"
+    "main.css": "/campus-health-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/campus-health-frontend/static/js/main.c673a912.js",
+    "static/js/453.fadea034.chunk.js": "/campus-health-frontend/static/js/453.fadea034.chunk.js",
+    "index.html": "/campus-health-frontend/index.html",
+    "main.e6c13ad2.css.map": "/campus-health-frontend/static/css/main.e6c13ad2.css.map",
+    "main.c673a912.js.map": "/campus-health-frontend/static/js/main.c673a912.js.map",
+    "453.fadea034.chunk.js.map": "/campus-health-frontend/static/js/453.fadea034.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.dafbe918.js"
+    "static/js/main.c673a912.js"
   ]
 }
