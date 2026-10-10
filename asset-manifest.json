@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/campus-health-frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/campus-health-frontend/static/js/main.c673a912.js",
-    "static/js/453.fadea034.chunk.js": "/campus-health-frontend/static/js/453.fadea034.chunk.js",
+    "main.js": "/campus-health-frontend/static/js/main.8fbfe428.js",
+    "static/js/400.4a3a753c.chunk.js": "/campus-health-frontend/static/js/400.4a3a753c.chunk.js",
     "index.html": "/campus-health-frontend/index.html",
     "main.e6c13ad2.css.map": "/campus-health-frontend/static/css/main.e6c13ad2.css.map",
-    "main.c673a912.js.map": "/campus-health-frontend/static/js/main.c673a912.js.map",
-    "453.fadea034.chunk.js.map": "/campus-health-frontend/static/js/453.fadea034.chunk.js.map"
+    "main.8fbfe428.js.map": "/campus-health-frontend/static/js/main.8fbfe428.js.map",
+    "400.4a3a753c.chunk.js.map": "/campus-health-frontend/static/js/400.4a3a753c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c673a912.js"
+    "static/js/main.8fbfe428.js"
   ]
 }
